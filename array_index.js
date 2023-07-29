@@ -15,3 +15,15 @@ console.log(numbers);
 // find index of an element
 var positionIndex = numbers.indexOf(89);
 console.log(positionIndex);
+
+console.log(6 != 6);
+console.log(6 >= 6);
+
+var x=9;
+var y= 12;
+ if(x>y){
+    console.log("x is greater than y")
+ }
+ else if(x<y){
+    console.log("y is bigger");
+ }
