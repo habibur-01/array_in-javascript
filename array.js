@@ -3,3 +3,9 @@ var name=['Zahid', 'Hemal', 'shoab', 'Shakil'];
 var vowels=['a', 'e', 'i', 'o', 'u'];
 
 console.log(vowels.length);
+
+var i = 0;
+for (i=0; i<5; i++){
+    
+};
+console.log(i);
